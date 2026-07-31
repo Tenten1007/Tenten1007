@@ -1,6 +1,8 @@
 # Hi, I'm Thatchaphon 👋
 
-**Mobile developer — Flutter & Firebase.** 4th-year Information Technology student at Maejo University, Chiang Mai, Thailand.
+4th-year Information Technology student at Maejo University, Chiang Mai, Thailand.
+
+I'm building a **Flutter app** for my capstone — and I write the **backends** that a real business runs on every day.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
@@ -15,8 +17,8 @@
 
 ## 🚀 About Me
 
-- 🎯 I build **mobile apps end to end** — from requirements and system design, through UI, to database and state management.
-- 🌾 My capstone is **KasetHaul**, an agricultural freight marketplace for farmers in Mae Chaem, Chiang Mai — 47 screens in Flutter + BLoC on Cloud Firestore.
+- 🎯 **Mobile development is the direction I'm working toward.** What I've practised so far is taking a feature the whole way — requirements and system design, then UI, then database and state management.
+- 🌾 My capstone is **KasetHaul**, an agricultural freight marketplace for farmers in Mae Chaem, Chiang Mai — 47 screens in Flutter + BLoC on Cloud Firestore. **Still in development.**
 - 🏗️ Outside coursework I write the **internal tools my family's construction business actually runs on** — accounting automation, Thai OCR, LINE bots. Real users, real bugs, real consequences.
 - 🎤 Represented Maejo University at **Startup Thailand League 2026** with team KraiPai. I built the deck and delivered the pitch myself.
 - 🌱 Currently learning: writing code that a *team* can read, not just code that works.
@@ -47,7 +49,7 @@
 
 | Project | Stack | Highlights | Code |
 |---------|-------|------------|------|
-| **KasetHaul**<br>Agricultural Freight Marketplace | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) ![BLoC](https://img.shields.io/badge/BLoC-02569B?logoColor=white) ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=black) | Two-sided marketplace matching farmers with truck owners. Competitive bidding, 7-stage delivery tracking, in-app wallet that holds funds until delivery is confirmed, two-way reviews. **47 screens**, designed from a 39-use-case SRS. | 🔒 Private — happy to walk through it |
+| **KasetHaul**<br>Agricultural Freight Marketplace<br>*capstone · in development* | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) ![BLoC](https://img.shields.io/badge/BLoC-02569B?logoColor=white) ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=black) | Two-sided marketplace matching farmers with truck owners. Competitive bidding, 7-stage delivery tracking, in-app wallet that holds funds until delivery is confirmed, two-way reviews. **47 screens built so far**, designed from a 39-use-case SRS. | 🔒 Private — happy to walk through it |
 | **Accounting & Tax Document System** | ![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white) ![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![LINE](https://img.shields.io/badge/LINE-00C300?logo=line&logoColor=white) | Photograph a receipt, send it over LINE, an LLM extracts the data into a **17-table** database, and the system generates quotations, tax invoices, receipts and withholding tax certificates as Thai-language PDFs. **In daily production use.** | 🔒 Private |
 | **Dormitory Management System** | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | Rooms, tenants and utility billing. Renders each bill as an image with a **PromptPay QR code** and delivers it to tenants over LINE automatically. Deployed with PM2 behind a Cloudflare Tunnel. | 🔒 Private |
 | **e-GP Bidding Analyzer** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | Scrapes Thailand's government procurement portal daily, stores tenders in MySQL, then uses an LLM to assess price feasibility and competition to support bidding decisions. | 🔒 Private |
